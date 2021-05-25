@@ -8,9 +8,9 @@
 --
 -- Licensed under the same terms as Lua itself.
 --
--- @author Lucas Lorensi (lucas.lorensi@gmail.com)
+-- @author Alp Ertunga Elgün (elgunalp1@gmail.com)
 --
--- @release $ v0.1 2008/05/21 $
+-- @release $ v0.1 2021 $
 -------------------------------------------------------------------------------
 
 
